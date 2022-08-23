@@ -1,0 +1,163 @@
+.container {
+    width: 1000px;
+    height: 540px;
+    background-color: chocolate;
+}
+
+.row1 {
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(208, 243, 144);
+    text-align: center;
+    font-size: 50px;
+}
+
+.row2 {
+    width: 1000px;
+    height: 40px;
+    background-color: yellow;
+}
+
+.row2-col1 {
+    width: 200px;
+    height: 40px;
+    background-color: pink;
+    float: left;
+    text-align: center;
+}
+
+.row2-col2 {
+    width: 200px;
+    height: 40px;
+    background-color: rgb(175, 251, 230);
+    float: left;
+    text-align: center;
+}
+
+.row2-col3 {
+    width: 200px;
+    height: 40px;
+    background-color: rgb(6, 241, 139);
+    float: left;
+    text-align: center;
+}
+
+.row2-col4 {
+    width: 200px;
+    height: 40px;
+    background-color: rgb(224, 146, 226);
+    float: left;
+    text-align: center;
+}
+
+.row2-col5 {
+    width: 200px;
+    height: 40px;
+    background-color: rgb(142, 9, 244);
+    float: left;
+    text-align: center;
+}
+
+.row3 {
+    width: 1000px;
+    height: 200px;
+    background-color: azure;
+}
+
+.row3-col1 {
+    width: 250px;
+    height: 200px;
+    background-color: blueviolet;
+    float: left;
+}
+
+.row3-col1-row1 {
+    width: 250px;
+    height: 40px;
+    background-color: dimgray;
+}
+
+.row3-col1-row2 {
+    width: 250px;
+    height: 40px;
+    background-color: rgb(210, 237, 253);
+}
+
+.row3-col1-row3 {
+    width: 250px;
+    height: 40px;
+    background-color: rgb(252, 195, 236);
+}
+
+.row3-col1-row4 {
+    width: 250px;
+    height: 40px;
+    background-color: gray;
+}
+
+.row3-col1-row5 {
+    width: 250px;
+    height: 40px;
+    background-color: linen;
+}
+
+.row3-col2{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(211, 203, 203);
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.row4 {
+    width: 1000px;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    background-color: honeydew;
+}
+
+.row5 {
+    width: 1000px;
+    height: 100px;
+    background-color: cyan;
+    color: white;
+    text-align: center;
+
+}
+
+.row5-col1 {
+    width: 333px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+    float: left;
+    
+}
+
+.row5-col2 {
+    width: 333px;
+    height: 100px;
+    background-color: lightblue;
+    font-size: 30px;
+    float: left;
+}
+
+.row5-col3 {
+    width: 334px;
+    height: 100px;
+    background-color: rgb(85, 25, 251);
+    font-size: 30px;
+    float: left;
+}
+
+.row6 {
+    width: 1000px;
+    height: 50px;
+    background-color: lightgoldenrodyellow;
+    font-size: 30px;
+    text-align: center;
+}
